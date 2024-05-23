@@ -1,0 +1,19 @@
+/* Document Fonts*/
+// The First thing for the project will be to choose the font, we can do it through Google Fonts, or Computer Fonts
+// If you decide work with Google Fonts please insert the import codes in the next line
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Leckerli+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+// Now you need to setup in the next lines
+// Setup all Font
+body {
+    // Here insert the code
+     font-family: 'Quicksand', sans-serif;
+}
+// Headings
+h1, h2, h3, h4, h5, h6 {
+    // Here insert the code
+    font-family: 'Pacifico', cursive;
+}
+
+// That's great, you could do it perfectly dude, it's all done

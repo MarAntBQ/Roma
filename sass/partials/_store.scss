@@ -1,0 +1,24 @@
+.searchpage {
+    @media (min-width: $break-medium) {
+        //padding-left: 5px;
+        max-width: 200px;
+        min-width: 200px;
+        box-sizing: border-box;
+    }
+    @media (max-width: $break-medium) {
+         #my-search-18950263 {
+        margin: 10px auto;
+    }
+    }
+    #my-search-18950263 {
+        margin: 10px 5px;
+    }
+    input {
+        display: block;
+        min-width: 100%;
+        max-width: 100%;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
